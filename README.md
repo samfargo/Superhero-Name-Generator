@@ -10,6 +10,3 @@ The model predicts the next character for a given input sequence. In order to ge
 
 Tensorflow<br/>
 `pip install tensorflow`
-
-scikit-learn<br/>
-`pip install -U scikit-learn`
